@@ -22,14 +22,14 @@
   margin: 0 auto;
   max-width: 80%;
 }
-.header {
+/* .header {
   margin-bottom: 5rem;
 }
 
 .header #header {
-  color: rgb(73, 220, 20);
+  
   font-size: 3rem;
-}
+} */
 
 .container-btn {
   display: flex;
@@ -56,4 +56,10 @@
 h1,
 h2 {
   margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 5.4rem;
+  color: rgb(73, 220, 20);
+  margin-bottom: 5rem;
 }
