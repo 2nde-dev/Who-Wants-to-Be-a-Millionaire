@@ -7,7 +7,7 @@
   color: #333;
 }
 
-body {
+#main-body {
   background-image: url(./images/pexels-philippe-donn-1242764.jpg);
   background-size: cover;
   background-repeat: no-repeat;
