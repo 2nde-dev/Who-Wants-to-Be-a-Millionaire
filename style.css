@@ -22,14 +22,6 @@
   margin: 0 auto;
   max-width: 80%;
 }
-/* .header {
-  margin-bottom: 5rem;
-}
-
-.header #header {
-  
-  font-size: 3rem;
-} */
 
 .container-btn {
   display: flex;
@@ -62,4 +54,12 @@ h1 {
   font-size: 5.4rem;
   color: rgb(73, 220, 20);
   margin-bottom: 5rem;
+}
+
+h2 {
+  font-size: 4rem;
+  margin-bottom: 4rem;
+  font-weight: 700;
+  color: blue;
+  background-color: wheat;
 }
